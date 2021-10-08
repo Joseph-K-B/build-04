@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "pg": "^8.4.1"
+    "pg": "^8.4.1",
+    "supertest": "^6.1.6"
   }
 }
